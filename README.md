@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="assets/floral-header.svg" width="100%" alt="Ella Santos — botanical gothic floral header" />
+  <img src="floral-header.svg" width="100%" alt="Ella Santos — botanical gothic floral header" />
 
   <br>
   <em>Carpe Diem. · You only commit once.</em>
