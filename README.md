@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/floral-header.svg" width="100%" alt="Ella Santos — floral zen header with pink hibiscus flowers" />
+  <img src="assets/floral-header.svg" width="100%" alt="" />
 
   <br />
   <em>Carpe Diem.</em>
