@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Ella floral zen botanical profile header">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FAF3EE"/><stop offset="1" stop-color="#F0E3E4"/></linearGradient>
+  <linearGradient id="petal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#E3B6BD"/><stop offset="1" stop-color="#BA778B"/></linearGradient>
+  <g id="leaf"><path d="M0 0 C-15 -38 -55 -50 -76 -31 C-66 2 -30 13 0 0" fill="#A1AE98" stroke="#829782" stroke-width="1.5"/><path d="M0 0 Q-32 -14 -62 -27" fill="none" stroke="#788F79" stroke-width="1"/></g>
+  <g id="flower">
+    <path d="M-8 14 C-40 -8 -57 -43 -35 -52 C-12 -63 5 -34 3 -11 C19 -38 53 -47 55 -22 C59 1 32 14 13 10 C39 25 45 52 21 55 C2 61 -12 40 -11 22 C-25 49 -54 47 -59 26 C-65 7 -37 -2 -11 5 Z" fill="url(#petal)" opacity="0.93"/>
+    <path d="M-8 14 Q-30 -32 -35 -52 M3 -11 Q36 -30 55 -22 M13 10 Q33 34 21 55 M-11 22 Q-39 37 -59 26" stroke="#F5DFDC" stroke-width="2" fill="none" opacity=".55"/>
+    <circle cx="0" cy="8" r="12" fill="#9E596E"/><circle cx="0" cy="8" r="6" fill="#E9D5B5"/><path d="M0 7 Q16 -8 27 -20" fill="none" stroke="#9E596E" stroke-width="2"/><circle cx="27" cy="-20" r="3" fill="#D8B978"/>
+  </g>
+</defs>
+<rect width="1200" height="320" fill="url(#bg)"/>
+<path d="M70 280 Q124 185 208 155 Q252 135 278 75" fill="none" stroke="#8A9A84" stroke-width="5" stroke-linecap="round"/>
+<g transform="translate(167 180) rotate(-25)"><use href="#leaf"/></g><g transform="translate(215 133) rotate(148)"><use href="#leaf"/></g>
+<g transform="translate(125 238) rotate(-18) scale(.72)"><use href="#flower"/></g><g transform="translate(255 99) rotate(18) scale(.86)"><use href="#flower"/></g>
+<path d="M1150 297 Q1102 225 1051 183 Q1006 142 1000 62" fill="none" stroke="#8A9A84" stroke-width="5" stroke-linecap="round"/>
+<g transform="translate(1056 193) rotate(35)"><use href="#leaf"/></g><g transform="translate(1021 131) rotate(190)"><use href="#leaf"/></g>
+<g transform="translate(1101 246) scale(.7) rotate(18)"><use href="#flower"/></g><g transform="translate(988 64) scale(.82) rotate(38)"><use href="#flower"/></g>
+<path d="M347 51 H853 M347 268 H853" stroke="#D7BEC2" stroke-width="1"/>
+<text x="600" y="142" fill="#704D60" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="71" letter-spacing="3">ella santos</text>
+<text x="600" y="186" fill="#977584" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" letter-spacing="3">STEM girl lifestyle · YOCO (you only commit once) </text>
+<text x="600" y="238" fill="#9A8A8E" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" letter-spacing="4">SOFTWARE · DATA · CREATIVITY</text>
+</svg>
