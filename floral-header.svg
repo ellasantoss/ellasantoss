@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Ella Santos botanical gothic floral profile banner">
+<defs>
+ <linearGradient id="night" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#241923"/><stop offset=".55" stop-color="#49303D"/><stop offset="1" stop-color="#271E2B"/></linearGradient>
+ <radialGradient id="petal"><stop stop-color="#F3C7CB"/><stop offset=".65" stop-color="#C57B96"/><stop offset="1" stop-color="#85445E"/></radialGradient>
+ <g id="leaf"><path d="M0 0 Q-25 -52 -72 -31 Q-62 5 0 0Z" fill="#849783" stroke="#C0BDA5" stroke-width="1"/><path d="M0 0 Q-37 -20 -65 -30" stroke="#D0C9A9" fill="none" opacity=".55"/></g>
+ <g id="hibiscus">
+  <g fill="url(#petal)" stroke="#F1CFCD" stroke-width="1.5">
+   <path d="M0 0 C-48 -17 -60 -62 -22 -77 C10 -86 24 -43 0 0Z"/>
+   <path d="M0 0 C15 -52 67 -63 79 -30 C87 0 40 20 0 0Z"/>
+   <path d="M0 0 C54 5 74 53 43 70 C9 85 -13 44 0 0Z"/>
+   <path d="M0 0 C-4 50 -56 75 -74 42 C-88 11 -43 -10 0 0Z"/>
+   <path d="M0 0 C-48 20 -79 -14 -59 -47 C-40 -70 -10 -37 0 0Z"/>
+  </g>
+  <circle r="13" fill="#77364F"/><circle r="6" fill="#F1D8B1"/>
+  <path d="M0 0 Q24 -16 37 -36" stroke="#F0D6A7" stroke-width="3" fill="none"/>
+  <g fill="#F5DB9F"><circle cx="37" cy="-36" r="4"/><circle cx="30" cy="-41" r="3"/><circle cx="43" cy="-29" r="3"/></g>
+ </g>
+ <g id="rose"><g fill="none" stroke="#EAB8C3" stroke-width="5" stroke-linecap="round"><path d="M-31 4 C-39 -29 -3 -49 25 -29 C49 -10 28 37 -7 34 C-37 30 -40 -4 -17 -17 C3 -28 22 -11 13 8 C7 20 -11 15 -9 4"/></g><circle cx="-4" cy="3" r="3" fill="#F4D9D6"/></g>
+</defs>
+<rect width="1200" height="360" fill="url(#night)"/>
+<rect x="19" y="18" width="1162" height="324" rx="4" fill="none" stroke="#BE9D9F" opacity=".65"/>
+<rect x="30" y="29" width="1140" height="302" rx="3" fill="none" stroke="#BE9D9F" opacity=".28"/>
+<g fill="none" stroke="#A2AD92" stroke-width="3" stroke-linecap="round">
+ <path d="M-12 338 C60 283 67 183 148 133 C195 104 190 44 248 -10"/>
+ <path d="M1213 348 C1129 288 1132 185 1057 131 C1015 99 1018 37 954 -10"/>
+</g>
+<g><use href="#leaf" transform="translate(92 215) rotate(40)"/><use href="#leaf" transform="translate(157 121) rotate(150) scale(.8)"/><use href="#leaf" transform="translate(1097 220) rotate(142)"/><use href="#leaf" transform="translate(1033 122) rotate(35) scale(.8)"/></g>
+<use href="#hibiscus" transform="translate(128 261) rotate(-20) scale(.92)"/>
+<use href="#hibiscus" transform="translate(236 70) rotate(22) scale(.65)"/>
+<use href="#hibiscus" transform="translate(1073 258) rotate(20) scale(.91)"/>
+<use href="#hibiscus" transform="translate(969 69) rotate(-20) scale(.65)"/>
+<use href="#rose" transform="translate(57 100) scale(.65)"/>
+<use href="#rose" transform="translate(1145 107) scale(.65)"/>
+<path d="M355 80 H845 M355 283 H845" stroke="#C8A8A9" opacity=".7"/>
+<g fill="#F3DFDA" text-anchor="middle">
+ <text x="600" y="172" font-family="Georgia, 'Times New Roman', serif" font-size="79" letter-spacing="3">ella santos</text>
+ <text x="600" y="217" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-style="italic" letter-spacing="2" fill="#E1BFC8">STEM girl lifestyle · YOCO</text>
+ <text x="600" y="262" font-family="Arial, sans-serif" font-size="13" letter-spacing="4" fill="#D2BDBD">SOFTWARE · DATA · CREATIVITY</text>
+</g>
+<g fill="#E9C4A6" opacity=".85"><circle cx="331" cy="181" r="2"/><circle cx="869" cy="181" r="2"/><circle cx="600" cy="61" r="2"/><circle cx="600" cy="304" r="2"/></g>
+</svg>
