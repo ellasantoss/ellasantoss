@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/floral-header.svg" width="100%" alt="" />
+  <img src="floral-header.svg" width="100%" alt="" />
 
   <br />
   <em>Carpe Diem.</em>
