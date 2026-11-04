@@ -81,11 +81,7 @@ Thanks for wandering into my little corner of GitHub. This is a work in progress
 
 ---
 
-### 04. growth, in commits
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ellasantoss&show_icons=true&hide_border=true&bg_color=FAF3EE&title_color=8F4D67&text_color=584550&icon_color=AD7189" alt="Ella's GitHub activity statistics" />
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ellasantoss&layout=compact&hide_border=true&bg_color=FAF3EE&title_color=8F4D67&text_color=584550" alt="Most used languages in public GitHub repositories" />
 </div>
 
